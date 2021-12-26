@@ -127,6 +127,7 @@ main {
   .card-1 {
     grid-column: 1/3;
     width: fit-content;
+    background-position: right 90px top;
   }
 
   .card-4 {
